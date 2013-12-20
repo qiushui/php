@@ -86,9 +86,9 @@ Endpoints:
     Options:
       health: true
 
-Source-Url: git://github.com/qiushui/php.git
+#Source-Url: git://github.com/qiushui/php.git
 #Source-Url: https://github.com/qiushui/php.git
-#Source-Url: https://github.com/qiushui/php/raw/master/php.zip
+Source-Url: https://github.com/qiushui/php/raw/master/php.zip
 #Source-Url: https://github.com/qiushui/php/raw/master/php.tar.gz
 #Source-Url: https://github.com/qiushui/php/raw/master/php.tar
 #Source-Md5: 11f22ad89672f6f6eaf0db946b68e01d
